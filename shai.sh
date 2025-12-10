@@ -1,7 +1,7 @@
 #!/bin/bash
 # Check for partial matches (not just exact)
 
-echo "animate.css only for test";
+echo "animate.css only for test, safe package!";
 
 echo "package-lock.json";
 
